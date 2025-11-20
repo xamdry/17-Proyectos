@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Andry\\17Proyectos\\MazeGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5940618-CF47-48F9-AB75-D57E2DE70928}|MazeGame\\MazeGame.csproj|c:\\users\\andry\\17proyectos\\mazegame\\mazegame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5940618-CF47-48F9-AB75-D57E2DE70928}|MazeGame\\MazeGame.csproj|solutionrelative:mazegame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5940618-CF47-48F9-AB75-D57E2DE70928}|MazeGame\\MazeGame.csproj|C:\\Users\\Andry\\17Proyectos\\MazeGame\\mazegame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A5940618-CF47-48F9-AB75-D57E2DE70928}|MazeGame\\MazeGame.csproj|solutionrelative:mazegame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5940618-CF47-48F9-AB75-D57E2DE70928}|MazeGame\\MazeGame.csproj|c:\\users\\andry\\17proyectos\\mazegame\\mazegame\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5940618-CF47-48F9-AB75-D57E2DE70928}|MazeGame\\MazeGame.csproj|solutionrelative:mazegame\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Andry\\17Proyectos\\MazeGame\\MazeGame\\Form1.cs",
+              "RelativeDocumentMoniker": "MazeGame\\Form1.cs",
+              "ToolTip": "C:\\Users\\Andry\\17Proyectos\\MazeGame\\MazeGame\\Form1.cs [Design]",
+              "RelativeToolTip": "MazeGame\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T00:32:57.988Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Andry\\17Proyectos\\MazeGame\\MazeGame\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "MazeGame\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Andry\\17Proyectos\\MazeGame\\MazeGame\\Form1.Designer.cs",
+              "RelativeToolTip": "MazeGame\\Form1.Designer.cs",
+              "ViewState": "AgIAAIkBAAAAAAAAAADgv5EBAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T00:31:48.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Andry\\17Proyectos\\MazeGame\\MazeGame\\Form1.cs",
+              "RelativeDocumentMoniker": "MazeGame\\Form1.cs",
+              "ToolTip": "C:\\Users\\Andry\\17Proyectos\\MazeGame\\MazeGame\\Form1.cs",
+              "RelativeToolTip": "MazeGame\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T23:36:54.712Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

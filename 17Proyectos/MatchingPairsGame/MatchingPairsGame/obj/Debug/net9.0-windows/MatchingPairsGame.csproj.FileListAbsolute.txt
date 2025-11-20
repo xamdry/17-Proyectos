@@ -1,0 +1,16 @@
+C:\Users\Andry\17Proyectos\MatchingPairsGame\MatchingPairsGame\bin\Debug\net9.0-windows\MatchingPairsGame.exe
+C:\Users\Andry\17Proyectos\MatchingPairsGame\MatchingPairsGame\bin\Debug\net9.0-windows\MatchingPairsGame.deps.json
+C:\Users\Andry\17Proyectos\MatchingPairsGame\MatchingPairsGame\bin\Debug\net9.0-windows\MatchingPairsGame.runtimeconfig.json
+C:\Users\Andry\17Proyectos\MatchingPairsGame\MatchingPairsGame\bin\Debug\net9.0-windows\MatchingPairsGame.dll
+C:\Users\Andry\17Proyectos\MatchingPairsGame\MatchingPairsGame\bin\Debug\net9.0-windows\MatchingPairsGame.pdb
+C:\Users\Andry\17Proyectos\MatchingPairsGame\MatchingPairsGame\obj\Debug\net9.0-windows\MatchingPairsGame.Form1.resources
+C:\Users\Andry\17Proyectos\MatchingPairsGame\MatchingPairsGame\obj\Debug\net9.0-windows\MatchingPairsGame.csproj.GenerateResource.cache
+C:\Users\Andry\17Proyectos\MatchingPairsGame\MatchingPairsGame\obj\Debug\net9.0-windows\MatchingPairsGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andry\17Proyectos\MatchingPairsGame\MatchingPairsGame\obj\Debug\net9.0-windows\MatchingPairsGame.AssemblyInfoInputs.cache
+C:\Users\Andry\17Proyectos\MatchingPairsGame\MatchingPairsGame\obj\Debug\net9.0-windows\MatchingPairsGame.AssemblyInfo.cs
+C:\Users\Andry\17Proyectos\MatchingPairsGame\MatchingPairsGame\obj\Debug\net9.0-windows\MatchingPairsGame.csproj.CoreCompileInputs.cache
+C:\Users\Andry\17Proyectos\MatchingPairsGame\MatchingPairsGame\obj\Debug\net9.0-windows\MatchingPairsGame.dll
+C:\Users\Andry\17Proyectos\MatchingPairsGame\MatchingPairsGame\obj\Debug\net9.0-windows\refint\MatchingPairsGame.dll
+C:\Users\Andry\17Proyectos\MatchingPairsGame\MatchingPairsGame\obj\Debug\net9.0-windows\MatchingPairsGame.pdb
+C:\Users\Andry\17Proyectos\MatchingPairsGame\MatchingPairsGame\obj\Debug\net9.0-windows\MatchingPairsGame.genruntimeconfig.cache
+C:\Users\Andry\17Proyectos\MatchingPairsGame\MatchingPairsGame\obj\Debug\net9.0-windows\ref\MatchingPairsGame.dll

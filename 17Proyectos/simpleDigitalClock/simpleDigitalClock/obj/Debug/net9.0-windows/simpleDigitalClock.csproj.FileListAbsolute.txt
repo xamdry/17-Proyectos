@@ -1,0 +1,16 @@
+C:\Users\Andry\17Proyectos\simpleDigitalClock\simpleDigitalClock\bin\Debug\net9.0-windows\simpleDigitalClock.exe
+C:\Users\Andry\17Proyectos\simpleDigitalClock\simpleDigitalClock\bin\Debug\net9.0-windows\simpleDigitalClock.deps.json
+C:\Users\Andry\17Proyectos\simpleDigitalClock\simpleDigitalClock\bin\Debug\net9.0-windows\simpleDigitalClock.runtimeconfig.json
+C:\Users\Andry\17Proyectos\simpleDigitalClock\simpleDigitalClock\bin\Debug\net9.0-windows\simpleDigitalClock.dll
+C:\Users\Andry\17Proyectos\simpleDigitalClock\simpleDigitalClock\bin\Debug\net9.0-windows\simpleDigitalClock.pdb
+C:\Users\Andry\17Proyectos\simpleDigitalClock\simpleDigitalClock\obj\Debug\net9.0-windows\simpleDigitalClock.Form1.resources
+C:\Users\Andry\17Proyectos\simpleDigitalClock\simpleDigitalClock\obj\Debug\net9.0-windows\simpleDigitalClock.csproj.GenerateResource.cache
+C:\Users\Andry\17Proyectos\simpleDigitalClock\simpleDigitalClock\obj\Debug\net9.0-windows\simpleDigitalClock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andry\17Proyectos\simpleDigitalClock\simpleDigitalClock\obj\Debug\net9.0-windows\simpleDigitalClock.AssemblyInfoInputs.cache
+C:\Users\Andry\17Proyectos\simpleDigitalClock\simpleDigitalClock\obj\Debug\net9.0-windows\simpleDigitalClock.AssemblyInfo.cs
+C:\Users\Andry\17Proyectos\simpleDigitalClock\simpleDigitalClock\obj\Debug\net9.0-windows\simpleDigitalClock.csproj.CoreCompileInputs.cache
+C:\Users\Andry\17Proyectos\simpleDigitalClock\simpleDigitalClock\obj\Debug\net9.0-windows\simpleDigitalClock.dll
+C:\Users\Andry\17Proyectos\simpleDigitalClock\simpleDigitalClock\obj\Debug\net9.0-windows\refint\simpleDigitalClock.dll
+C:\Users\Andry\17Proyectos\simpleDigitalClock\simpleDigitalClock\obj\Debug\net9.0-windows\simpleDigitalClock.pdb
+C:\Users\Andry\17Proyectos\simpleDigitalClock\simpleDigitalClock\obj\Debug\net9.0-windows\simpleDigitalClock.genruntimeconfig.cache
+C:\Users\Andry\17Proyectos\simpleDigitalClock\simpleDigitalClock\obj\Debug\net9.0-windows\ref\simpleDigitalClock.dll

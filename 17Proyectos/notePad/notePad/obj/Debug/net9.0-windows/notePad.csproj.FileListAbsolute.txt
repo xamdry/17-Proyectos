@@ -1,0 +1,17 @@
+C:\Users\Andry\17Proyectos\notePad\notePad\bin\Debug\net9.0-windows\notePad.exe
+C:\Users\Andry\17Proyectos\notePad\notePad\bin\Debug\net9.0-windows\notePad.deps.json
+C:\Users\Andry\17Proyectos\notePad\notePad\bin\Debug\net9.0-windows\notePad.runtimeconfig.json
+C:\Users\Andry\17Proyectos\notePad\notePad\bin\Debug\net9.0-windows\notePad.dll
+C:\Users\Andry\17Proyectos\notePad\notePad\bin\Debug\net9.0-windows\notePad.pdb
+C:\Users\Andry\17Proyectos\notePad\notePad\obj\Debug\net9.0-windows\notePad.frmMain.resources
+C:\Users\Andry\17Proyectos\notePad\notePad\obj\Debug\net9.0-windows\notePad.csproj.GenerateResource.cache
+C:\Users\Andry\17Proyectos\notePad\notePad\obj\Debug\net9.0-windows\notePad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andry\17Proyectos\notePad\notePad\obj\Debug\net9.0-windows\notePad.AssemblyInfoInputs.cache
+C:\Users\Andry\17Proyectos\notePad\notePad\obj\Debug\net9.0-windows\notePad.AssemblyInfo.cs
+C:\Users\Andry\17Proyectos\notePad\notePad\obj\Debug\net9.0-windows\notePad.csproj.CoreCompileInputs.cache
+C:\Users\Andry\17Proyectos\notePad\notePad\obj\Debug\net9.0-windows\notePad.dll
+C:\Users\Andry\17Proyectos\notePad\notePad\obj\Debug\net9.0-windows\refint\notePad.dll
+C:\Users\Andry\17Proyectos\notePad\notePad\obj\Debug\net9.0-windows\notePad.pdb
+C:\Users\Andry\17Proyectos\notePad\notePad\obj\Debug\net9.0-windows\notePad.genruntimeconfig.cache
+C:\Users\Andry\17Proyectos\notePad\notePad\obj\Debug\net9.0-windows\ref\notePad.dll
+C:\Users\Andry\17Proyectos\notePad\notePad\obj\Debug\net9.0-windows\notePad.frmFile.resources

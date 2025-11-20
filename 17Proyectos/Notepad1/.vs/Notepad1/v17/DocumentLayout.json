@@ -1,0 +1,44 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Andry\\17Proyectos\\Notepad1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D793EC7-491B-4A98-8305-371B6F8680C5}|Notepad1\\Notepad1.csproj|c:\\users\\andry\\17proyectos\\notepad1\\notepad1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8D793EC7-491B-4A98-8305-371B6F8680C5}|Notepad1\\Notepad1.csproj|solutionrelative:notepad1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Andry\\17Proyectos\\Notepad1\\Notepad1\\Form1.cs",
+              "RelativeDocumentMoniker": "Notepad1\\Form1.cs",
+              "ToolTip": "C:\\Users\\Andry\\17Proyectos\\Notepad1\\Notepad1\\Form1.cs [Design]",
+              "RelativeToolTip": "Notepad1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T05:08:54.654Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

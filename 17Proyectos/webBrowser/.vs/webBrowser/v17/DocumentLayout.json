@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Andry\\17Proyectos\\webBrowser\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F000064-5245-4053-B038-A670B5648ED0}|webBrowser\\webBrowser.csproj|c:\\users\\andry\\17proyectos\\webbrowser\\webbrowser\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F000064-5245-4053-B038-A670B5648ED0}|webBrowser\\webBrowser.csproj|solutionrelative:webbrowser\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F000064-5245-4053-B038-A670B5648ED0}|webBrowser\\webBrowser.csproj|c:\\users\\andry\\17proyectos\\webbrowser\\webbrowser\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6F000064-5245-4053-B038-A670B5648ED0}|webBrowser\\webBrowser.csproj|solutionrelative:webbrowser\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F000064-5245-4053-B038-A670B5648ED0}|webBrowser\\webBrowser.csproj|c:\\users\\andry\\17proyectos\\webbrowser\\webbrowser\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F000064-5245-4053-B038-A670B5648ED0}|webBrowser\\webBrowser.csproj|solutionrelative:webbrowser\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Andry\\17Proyectos\\webBrowser\\webBrowser\\Form1.cs",
+              "RelativeDocumentMoniker": "webBrowser\\Form1.cs",
+              "ToolTip": "C:\\Users\\Andry\\17Proyectos\\webBrowser\\webBrowser\\Form1.cs [Design]",
+              "RelativeToolTip": "webBrowser\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T18:47:50.365Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Andry\\17Proyectos\\webBrowser\\webBrowser\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "webBrowser\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Andry\\17Proyectos\\webBrowser\\webBrowser\\Form1.Designer.cs",
+              "RelativeToolTip": "webBrowser\\Form1.Designer.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAWwHIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T18:47:15.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Andry\\17Proyectos\\webBrowser\\webBrowser\\Form1.cs",
+              "RelativeDocumentMoniker": "webBrowser\\Form1.cs",
+              "ToolTip": "C:\\Users\\Andry\\17Proyectos\\webBrowser\\webBrowser\\Form1.cs",
+              "RelativeToolTip": "webBrowser\\Form1.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBkAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T01:18:34.043Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

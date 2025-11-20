@@ -1,0 +1,16 @@
+C:\Users\Andry\17Proyectos\mathsQuizz\mathsQuizz\bin\Debug\net9.0-windows\mathsQuizz.exe
+C:\Users\Andry\17Proyectos\mathsQuizz\mathsQuizz\bin\Debug\net9.0-windows\mathsQuizz.deps.json
+C:\Users\Andry\17Proyectos\mathsQuizz\mathsQuizz\bin\Debug\net9.0-windows\mathsQuizz.runtimeconfig.json
+C:\Users\Andry\17Proyectos\mathsQuizz\mathsQuizz\bin\Debug\net9.0-windows\mathsQuizz.dll
+C:\Users\Andry\17Proyectos\mathsQuizz\mathsQuizz\bin\Debug\net9.0-windows\mathsQuizz.pdb
+C:\Users\Andry\17Proyectos\mathsQuizz\mathsQuizz\obj\Debug\net9.0-windows\mathsQuizz.Form1.resources
+C:\Users\Andry\17Proyectos\mathsQuizz\mathsQuizz\obj\Debug\net9.0-windows\mathsQuizz.csproj.GenerateResource.cache
+C:\Users\Andry\17Proyectos\mathsQuizz\mathsQuizz\obj\Debug\net9.0-windows\mathsQuizz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andry\17Proyectos\mathsQuizz\mathsQuizz\obj\Debug\net9.0-windows\mathsQuizz.AssemblyInfoInputs.cache
+C:\Users\Andry\17Proyectos\mathsQuizz\mathsQuizz\obj\Debug\net9.0-windows\mathsQuizz.AssemblyInfo.cs
+C:\Users\Andry\17Proyectos\mathsQuizz\mathsQuizz\obj\Debug\net9.0-windows\mathsQuizz.csproj.CoreCompileInputs.cache
+C:\Users\Andry\17Proyectos\mathsQuizz\mathsQuizz\obj\Debug\net9.0-windows\mathsQuizz.dll
+C:\Users\Andry\17Proyectos\mathsQuizz\mathsQuizz\obj\Debug\net9.0-windows\refint\mathsQuizz.dll
+C:\Users\Andry\17Proyectos\mathsQuizz\mathsQuizz\obj\Debug\net9.0-windows\mathsQuizz.pdb
+C:\Users\Andry\17Proyectos\mathsQuizz\mathsQuizz\obj\Debug\net9.0-windows\mathsQuizz.genruntimeconfig.cache
+C:\Users\Andry\17Proyectos\mathsQuizz\mathsQuizz\obj\Debug\net9.0-windows\ref\mathsQuizz.dll

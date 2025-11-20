@@ -1,0 +1,25 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace notePad
+{
+    public partial class frmFile : Form
+    {
+        public frmFile()
+        {
+            InitializeComponent();
+        }
+
+        private void findBt_Click(object sender, EventArgs e)
+        {
+
+        }
+    }
+}
