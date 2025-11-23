@@ -1,0 +1,11 @@
+C:\Users\Andry\17Proyectos\pingPongGame\pingPongGame\bin\Debug\pingPongGame.exe.config
+C:\Users\Andry\17Proyectos\pingPongGame\pingPongGame\bin\Debug\pingPongGame.exe
+C:\Users\Andry\17Proyectos\pingPongGame\pingPongGame\bin\Debug\pingPongGame.pdb
+C:\Users\Andry\17Proyectos\pingPongGame\pingPongGame\obj\Debug\pingPongGame.csproj.AssemblyReference.cache
+C:\Users\Andry\17Proyectos\pingPongGame\pingPongGame\obj\Debug\pingPongGame.gameForm.resources
+C:\Users\Andry\17Proyectos\pingPongGame\pingPongGame\obj\Debug\pingPongGame.Properties.Resources.resources
+C:\Users\Andry\17Proyectos\pingPongGame\pingPongGame\obj\Debug\pingPongGame.csproj.GenerateResource.cache
+C:\Users\Andry\17Proyectos\pingPongGame\pingPongGame\obj\Debug\pingPongGame.csproj.CoreCompileInputs.cache
+C:\Users\Andry\17Proyectos\pingPongGame\pingPongGame\obj\Debug\pingPongGame.exe
+C:\Users\Andry\17Proyectos\pingPongGame\pingPongGame\obj\Debug\pingPongGame.pdb
+C:\Users\Andry\17Proyectos\pingPongGame\pingPongGame\obj\Debug\pingPongGame.exe.config
