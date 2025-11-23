@@ -1,0 +1,11 @@
+C:\Users\Andry\17Proyectos\images_Upload\images_Upload\bin\Debug\images_Upload.exe.config
+C:\Users\Andry\17Proyectos\images_Upload\images_Upload\bin\Debug\images_Upload.exe
+C:\Users\Andry\17Proyectos\images_Upload\images_Upload\bin\Debug\images_Upload.pdb
+C:\Users\Andry\17Proyectos\images_Upload\images_Upload\obj\Debug\images_Upload.csproj.AssemblyReference.cache
+C:\Users\Andry\17Proyectos\images_Upload\images_Upload\obj\Debug\images_Upload.Form1.resources
+C:\Users\Andry\17Proyectos\images_Upload\images_Upload\obj\Debug\images_Upload.Properties.Resources.resources
+C:\Users\Andry\17Proyectos\images_Upload\images_Upload\obj\Debug\images_Upload.csproj.GenerateResource.cache
+C:\Users\Andry\17Proyectos\images_Upload\images_Upload\obj\Debug\images_Upload.csproj.CoreCompileInputs.cache
+C:\Users\Andry\17Proyectos\images_Upload\images_Upload\obj\Debug\images_Upload.exe
+C:\Users\Andry\17Proyectos\images_Upload\images_Upload\obj\Debug\images_Upload.pdb
+C:\Users\Andry\17Proyectos\images_Upload\images_Upload\obj\Debug\images_Upload.exe.config
