@@ -1,0 +1,12 @@
+C:\Users\Andry\17Proyectos\loginFrom\loginFrom\bin\Debug\loginFrom.exe.config
+C:\Users\Andry\17Proyectos\loginFrom\loginFrom\bin\Debug\loginFrom.exe
+C:\Users\Andry\17Proyectos\loginFrom\loginFrom\bin\Debug\loginFrom.pdb
+C:\Users\Andry\17Proyectos\loginFrom\loginFrom\obj\Debug\loginFrom.csproj.AssemblyReference.cache
+C:\Users\Andry\17Proyectos\loginFrom\loginFrom\obj\Debug\loginFrom.frmLogin.resources
+C:\Users\Andry\17Proyectos\loginFrom\loginFrom\obj\Debug\loginFrom.frmLogedIn.resources
+C:\Users\Andry\17Proyectos\loginFrom\loginFrom\obj\Debug\loginFrom.Properties.Resources.resources
+C:\Users\Andry\17Proyectos\loginFrom\loginFrom\obj\Debug\loginFrom.csproj.GenerateResource.cache
+C:\Users\Andry\17Proyectos\loginFrom\loginFrom\obj\Debug\loginFrom.csproj.CoreCompileInputs.cache
+C:\Users\Andry\17Proyectos\loginFrom\loginFrom\obj\Debug\loginFrom.exe
+C:\Users\Andry\17Proyectos\loginFrom\loginFrom\obj\Debug\loginFrom.pdb
+C:\Users\Andry\17Proyectos\loginFrom\loginFrom\obj\Debug\loginFrom.exe.config
